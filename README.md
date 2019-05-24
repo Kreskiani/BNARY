@@ -1,2 +1,3 @@
-# BNARY
-Website Ecomerce menggunakan laravel 5
+# e-Comerce
+
+Pa dadan
